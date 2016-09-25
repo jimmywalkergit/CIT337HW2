@@ -1,0 +1,1 @@
+The goal is this project is to use git to implement version control for a program
